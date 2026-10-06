@@ -1,0 +1,5 @@
+/data/*.sqlite
+/data/*.db
+/uploads/products/*
+/uploads/finance/*
+.DS_Store
